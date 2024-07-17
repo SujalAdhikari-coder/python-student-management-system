@@ -1,0 +1,4 @@
+sujal,adhikari,18,male,7237069
+ranjan,sharma,18,male,4847470
+Sadaf,anshari,22,male,1545441
+Sadaf,Anshari,22,male,3367652
